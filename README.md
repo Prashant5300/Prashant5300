@@ -35,10 +35,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="git" width="90" height="35"/> </a>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-patro&theme=dark" alt="roshan-patro" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan-Patro&show_icons=true&count_private=true&theme=merko" alt="roshan-patro"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant5300&theme=dark" alt="Prashant5300" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant5300&show_icons=true&count_private=true&theme=merko" alt="Prashant5300"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Patro&theme=dark)](https://github.com/Roshan-Patro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant5300&theme=dark)](https://github.com/Prashant5300/github-readme-stats)
 
 <!-- [![Roshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roshan-Patro&theme=react-dark)](https://github.com/roshan-patro/github-readme-activity-graph) -->
 
