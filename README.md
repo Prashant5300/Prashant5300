@@ -19,9 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: prashantsshinde2604@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@roshank64860817" height="30" width="70" /></a>
-<a href="https://www.linkedin.com/in/t-roshan-kumar-patro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/t-roshan-kumar-patro/" height="30" width="100" /></a>
-<a href="https://www.quora.com/profile/T-Roshan-Kumar-Patro" target="blank"><img align="center" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="https://www.quora.com/profile/T-Roshan-Kumar-Patro" height="30" width="90" /></a>
-<a href="https://twitter.com/@roshank64860817" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@roshank64860817" height="30" width="90" /></a>
+<a href="https://www.linkedin.com/in/prashant-shinde-3414aa27a?trk=contact-info target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prashant-shinde-3414aa27a?trk=contact-info" height="30" width="100" /></a>
+<a href="https://x.com/PrashantSh5300?t=6v3vlEHu2K7mdgeHRwWb5Q&s=09" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@roshank64860817" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +28,6 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="80" height="35"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="70" height="35"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="120" height="35"/> </a> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="css3" width="60" height="35"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="spring" width="80" height="35"/> </a></p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" width="120" height="35"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="git" width="90" height="35"/> </a>  
