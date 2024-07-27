@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript,React.js**
 
+- <p dir="auto">👨‍💻 All of my projects are available at <a href="https://suraj2320.github.io/" rel="nofollow">My Portfolio</a> and <a href="https://drive.google.com/file/d/1BtdJt_lgwG5atxnz1bjfiNVS9vQcNRrk/view?usp=share_link" rel="nofollow">Resume</a></p>
+
 - 📫 How to reach me **prashantsshinde2604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
