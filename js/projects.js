@@ -36,7 +36,7 @@ zee5SrcBtn.onclick = () =>{
 
 let zee5LiveBtn = document.querySelector("#zee5_live_btn");
 zee5LiveBtn.onclick = () =>{
-    window.open("https:zee5-clone-Prashant5300.netlify.app//", '_blank');
+    window.open("https:zee5-clone-roshan.netlify.app//", '_blank');
 }
 
 // =====================================================================================================
