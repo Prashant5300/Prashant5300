@@ -11,5 +11,5 @@ const resumeDownloadBtn = document.querySelector("#resume-button-2");
 resumeDownloadBtn.addEventListener("click", openResume);
 
 function openResume(){
-    window.open("", '_blank');
+    window.open("https://drive.google.com/file/d/1WmTZBoE7PjZVEPnWtLHCBcqGII41enm0/view?usp=drivesdk", '_blank');
 }
