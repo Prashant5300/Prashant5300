@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/107461385/225531601-c3505583-57f8-4572-9ed6-2cdd3a814de7.png"/>
-</p>
-
 <h1 align="center">Hi there 👋, I am Prashant Shinde</h1>
 <h3 align="center">A motivated Front end Web Developer from India.</h3>
 
