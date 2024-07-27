@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: prashantsshinde2604@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@roshank64860817" height="30" width="70" /></a>
-<a href="https://www.linkedin.com/in/prashant-shinde-3414aa27a?trk=contact-info target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prashant-shinde-3414aa27a?trk=contact-info" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/prashant-shinde/ target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prashant-shinde-3414aa27a?trk=contact-info" height="30" width="100" /></a>
 <a href="https://x.com/PrashantSh5300?t=6v3vlEHu2K7mdgeHRwWb5Q&s=09" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@roshank64860817" height="30" width="90" /></a>
 </p>
 
