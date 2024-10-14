@@ -1,4 +1,4 @@
-<img data-target="animated-image.replacedImage" alt="68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/41d4e2a7c650543b963457ad2a3af27e269d036e528b80c2060aa75085dc943f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" style="display: block; opacity: 1;">
+/html/body/div[1]/div[5]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[1]/animated-image/a
 <h1 align="center">Hi there 👋, I am Prashant Shinde</h1>
 <h3 align="center">A motivated Front end Web Developer from India.</h3>
 
