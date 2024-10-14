@@ -1,4 +1,4 @@
-/html/body/div[1]/div[5]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[1]/animated-image/a
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07b047331ba9023ea7234e374f2bf9fcc2fc8c4a9117772f7584c877690743c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/07b047331ba9023ea7234e374f2bf9fcc2fc8c4a9117772f7584c877690743c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" data-canonical-src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden=""></a>
 <h1 align="center">Hi there 👋, I am Prashant Shinde</h1>
 <h3 align="center">A motivated Front end Web Developer from India.</h3>
 
